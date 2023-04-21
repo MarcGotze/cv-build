@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a43173d.css",
+    "main.css": "/static/css/main.040565d4.css",
     "main.js": "/static/js/main.de628de9.js",
     "static/media/SofiaSansCondensed-VariableFont_wght.ttf": "/static/media/SofiaSansCondensed-VariableFont_wght.7165deffd404f00adde3.ttf",
     "index.html": "/index.html",
-    "main.4a43173d.css.map": "/static/css/main.4a43173d.css.map",
+    "main.040565d4.css.map": "/static/css/main.040565d4.css.map",
     "main.de628de9.js.map": "/static/js/main.de628de9.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a43173d.css",
+    "static/css/main.040565d4.css",
     "static/js/main.de628de9.js"
   ]
 }
